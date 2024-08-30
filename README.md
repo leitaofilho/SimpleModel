@@ -34,7 +34,7 @@ O **Simple v1.0** é baseado na arquitetura **YOLO (You Only Look Once)**, conhe
 
 ## Como Fazer a Inferência
 
-Para testar o modelo **Simple v1.0**, você pode utilizar o diretório `inference`, que contém vídeos no formato MP4 para inferência. O arquivo `main.py` do repositório inclui o código necessário para carregar o modelo e realizar a inferência em um vídeo de exemplo.
+Para testar o modelo **Simple v1.0**, você pode utilizar o diretório `inference`, que contém vídeos no formato MOV para inferência. O arquivo `main.py` do repositório inclui o código necessário para carregar o modelo e realizar a inferência em um vídeo de exemplo.
 
 ### Exemplo de Código:
 
